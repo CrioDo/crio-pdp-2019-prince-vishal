@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2de5d40f72e47ce735a6e50ea43e100",
+    "revision": "72698c1fa135a072ab1e8268a18e628d",
     "url": "/crio-pdp-2019-prince-vishal/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crio-pdp-2019-prince-vishal/static/css/2.b3ff1c62.chunk.css"
   },
   {
-    "revision": "7bf222816f1ec556851b",
+    "revision": "fee6f733ca300c6a646d",
     "url": "/crio-pdp-2019-prince-vishal/static/css/main.8ca1969d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crio-pdp-2019-prince-vishal/static/js/2.40a983e5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7bf222816f1ec556851b",
-    "url": "/crio-pdp-2019-prince-vishal/static/js/main.d5308345.chunk.js"
+    "revision": "fee6f733ca300c6a646d",
+    "url": "/crio-pdp-2019-prince-vishal/static/js/main.ad6e286b.chunk.js"
   },
   {
     "revision": "8b51771a438ef25459fd",
